@@ -25,7 +25,7 @@
 <!-- Centered Link Buttons -->
 <p align="center">
   <a href="https://sillyrinny.atabook.org"><font color="#AEC6CF"><b>ATABOOK</b></font></a> &nbsp;•&nbsp; 
-  <a href="https://sleepyrin.straw.page"><font color="#AEC6CF"><b>STRAWPAGE</b></font></a> &nbsp;•&nbsp; 
+  <a href="https://sillyestrinny.straw.page"><font color="#AEC6CF"><b>STRAWPAGE</b></font></a> &nbsp;•&nbsp; 
   <a href="https://www.tiktok.com/@that_one_animator._1"><font color="#AEC6CF"><b>TIKTOK</b></font></a>
 </p>
 <!-- Alfred F. Jones (America) Banner -->
