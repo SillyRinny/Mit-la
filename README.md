@@ -44,3 +44,4 @@
   <p align="center">
     <font color="#AEC6CF"><i>>DNI : Homophobic, Transphobic, Xenophobic, Islamophobic, etc, Misogynistic, Racist, Sexist, Ableist, Discrimination, etc, Invalidates A Person's Pronouns / Gender / Identity Pedophile, Sexualizes Minors, Jokes About Rape, etc.. Incest, Proshippers, Darkshippers, any other bad shippers.</i></font><br />
     <font color="#AEC6CF"><i>>INT : Respecting others and boundaries, c+h!!, being silly and dilly, etc</i></font><br />
+    <img src="https://komarev.com/ghpvc/?username=SillyRinny&label=Readers&color=ffe680" alt="Readers count" />
